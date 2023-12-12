@@ -1,1 +1,1 @@
-[# BIOL-441-Lab-Spring-2024 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-lab-applied-bioinformatics-bi-1)
+Learning Objectives [# BIOL-441-Lab-Spring-2024 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-lab-applied-bioinformatics-bi-1)
