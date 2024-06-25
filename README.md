@@ -4,3 +4,4 @@ Bioinformatics (topics including sequence alignment algorithms, scoring matrice
 Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, global & local alignment): https://youtu.be/Lx1jkr3UKwA
 *Graduate Class (Masters & Ph.D. Level) https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/
+Claflin University, Orangeburg, South Carolina, USA
