@@ -5,3 +5,4 @@ Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, glo
 *Graduate Class (Masters & Ph.D. Level). https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science [Semester class review:](https://youtu.be/Pju8ecWWRAw)
 [Claflin University, Orangeburg, South Carolina, United States of America (USA).](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
+![download](https://github.com/user-attachments/assets/0cad8b7a-c3e6-4dda-a377-64aceb10a854)
